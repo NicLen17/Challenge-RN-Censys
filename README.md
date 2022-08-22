@@ -4,7 +4,7 @@ Challenge dado a postutalte.
 
 ### *Para desplegar el proyecto en local seguir los siguientes pasos 🦾*
 
-1.  Clonar el repositorio de la siguiente manera **git clone** **https://github.com/NicLen17/Proyecto-Final-RC.git**
+1.  Clonar el repositorio de la siguiente manera **git clone** **https://github.com/NicLen17/Challenge-RN-Censys.git**
 
 2.  Instalar las librerias utilazadas mediante **npm i** en la consola de desarrollador, una vez terminada la instalacion, ejecutar **npm start** para abrir el servidor del frontend localmente.
 
