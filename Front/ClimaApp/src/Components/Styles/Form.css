@@ -1,0 +1,36 @@
+.Form-container {
+    
+}
+
+.Form-input {
+    background-color: white;
+    width: 300px !important;
+    padding: 10px;
+    border: solid 5px rgba(149, 190, 237);
+    border-radius: 8px;
+    font-weight: bold !important    ;
+}
+
+.Form-select {
+    background-color: white;
+    width: 300px !important;
+    padding: 10px;
+    -webkit-box-shadow: 7px 6px 5px 0px rgba(0, 0, 0, 0.27);
+    box-shadow: 7px 6px 5px 0px rgba(0, 0, 0, 0.27);
+    font-weight: bold !important;
+}
+
+.Boton-busqueda{
+    padding: 10px;
+    border-radius: 8px;
+    -webkit-box-shadow: 7px 6px 5px 0px rgba(0, 0, 0, 0.27);
+    box-shadow: 7px 6px 5px 0px rgba(0, 0, 0, 0.27);
+    background-color: white !important;
+    color: black !important;
+    font-weight: bold !important;
+}
+
+.Boton-busqueda:hover {
+    color: white !important;
+    background-color: rgb(63, 37, 110) !important;
+}
